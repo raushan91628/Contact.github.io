@@ -1,0 +1,23 @@
+#contactForm
+{
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    border-radius: 5%;
+}
+#form
+{
+    text-align: center;
+    gap:10px;
+    margin: auto;
+    margin-top:1rem;;
+    /* background-color: aquamarine; */
+    /* padding: 10px; */
+    border-radius: 100%;
+    max-width: 600px;
+}
+/* icon section */
+.bi-person-fill
+{
+    font-size: 100px;
+}
